@@ -9,7 +9,3 @@ elif x % 2 == 0 and x>20:
     print("Not weird")
 else:
     print("Weird")
-    
-
-    
-
