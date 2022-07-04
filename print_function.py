@@ -1,6 +1,3 @@
-from xml.dom import xmlbuilder
-
-
 # drukowanie liczb od 1 do x, w jenej linii bez spacji
 import sys
 
